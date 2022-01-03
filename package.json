@@ -1,6 +1,6 @@
 {
   "name": "@keep3r-network/cli-utils",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "description": "Keep3r CLI Utils",
   "keywords": [
     "keep3r",
